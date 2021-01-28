@@ -16,6 +16,7 @@ flask run
 
 ## Notes
 
+* [BugPoc Cards XSS Challenge Link](https://cards.buggywebsite.com)
 * [SirDarkCat Research on CSP Nonce Bypasses](http://sirdarckcat.blogspot.com/2016/12/how-to-bypass-csp-nonces-with-dom-xss.html)
 * [Safari Bug Ticket for Hiding CSP Nonces in DOM](https://bugs.webkit.org/show_bug.cgi?id=179728)
 * [HTML Spec on Nonce Attributes](https://html.spec.whatwg.org/multipage/urls-and-fetching.html#nonce-attributes%3Aattr-nonce)
